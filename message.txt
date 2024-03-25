@@ -1,0 +1,4 @@
+echo "hello"
+#TO RUN
+#sh filename.txt
+#OR ./filename.txt
